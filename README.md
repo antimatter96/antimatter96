@@ -6,4 +6,4 @@
 - looking for help with: Go
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antimatter96&layout=compact)]()
+[![Top Langs](https://github-readme-stats-antimatter96.vercel.app/api/top-langs/?username=antimatter96&layout=compact)]()
