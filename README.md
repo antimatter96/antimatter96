@@ -10,7 +10,7 @@
 <hr>
 
 
-<img src="https://github-readme-stats-antimatter96.vercel.app/api/top-langs/?username=antimatter96&layout=compact&hide_border=false&con_color=58A6FF&text_color=8B949E&bg_color=0D1117&show_icons=true&langs_count=5&cache_seconds=86400&exclude_repo=none&hide=jupyter%20notebook,css" alt="Top Langs" align="left">
+<img src="https://github-readme-stats-antimatter96.vercel.app/api/top-langs/?username=antimatter96&layout=compact&hide_border=false&con_color=58A6FF&text_color=8B949E&bg_color=0D1117&show_icons=true&langs_count=5&cache_seconds=864000&exclude_repo=none&hide=jupyter%20notebook,css" alt="Top Langs" align="left">
 
 <p align="center">
   <samp>
