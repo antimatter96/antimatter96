@@ -1,4 +1,4 @@
-<h3>
+<h2>
   <samp>
     Hi
   </samp> <br />
@@ -6,16 +6,16 @@
     I am </samp>Arpit Jain,
   <samp>a software engineer
   </samp>
-</h3>
+</h2>
 
-<h4>
+<h3>
   <samp>
   - I'm primarily a backend developer, but I do dabble in frontend when I want to ✨🎊💅 spice up my side projects <br>
   - I also delve into automation, writing workflows to make my life easier <br>
   - I am always trying to 🌱 learn something new and improve my skills <br>
   - Currently, I am studying Software Engineering at the National University of Singapore
   <samp>
-  </h4>
+  </h3>
 <hr>
 
 
