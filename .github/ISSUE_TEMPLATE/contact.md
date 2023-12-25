@@ -1,7 +1,7 @@
 ---
 name: Contact
 about: Contact form
-title: "[CONTACT]"
+title: ''
 labels: ''
 assignees: antimatter96
 
@@ -9,4 +9,5 @@ assignees: antimatter96
 
 Hi
 
-I'd like to reach out to you for <>
+I'd like to reach out to you for <<**Purpose**>>
+Ping me back at <<**Email**>>
