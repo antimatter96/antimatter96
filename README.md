@@ -10,7 +10,7 @@
 
 <h3>
   <samp>
-  - I'm primarily a backend developer having woked with Go, Node, Python and Rails <br>
+  - I'm a backend developer having woked with Go, Node, Python and Rails <br>
   - I dabble in frontend when I want to ✨💅 spice up my side projects <br>
   - I also delve into automation, writing workflows to make my life easier <br>
   - I am always trying to 🌱 learn something new and improve my skills <br>
