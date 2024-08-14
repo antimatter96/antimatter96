@@ -1,6 +1,6 @@
 <h2>
   <samp>
-    Hi
+    Hi 👋🏻
   </samp> <br />
   <samp>
     I am </samp>
