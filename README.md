@@ -4,7 +4,7 @@
   </samp> <br />
   <samp>
     I am </samp>
-Arpit Jain<samp> a software engineer</samp>
+Arpit Jain
 </h2>
 
 <h3>
