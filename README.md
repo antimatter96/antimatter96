@@ -13,7 +13,6 @@ Arpit Jain
   - I dabble in frontend when I want to ✨💅 spice up my side projects <br>
   - I also delve into automation, writing workflows to make my life easier <br>
   - I am always trying to 🌱 learn something new and improve my skills <br>
-  - Currently, I am studying Software Engineering at the National University of Singapore
   <samp>
   </h3>
 <hr>
